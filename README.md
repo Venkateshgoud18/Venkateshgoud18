@@ -51,6 +51,15 @@ Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer
 ![Netlify](https://img.shields.io/badge/Netlify-teal?style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/GCP-blue?style=for-the-badge)
 
+### ☁️ Cloud & DevOps
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-teal?style=for-the-badge&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
 ---
 
 ## 📊 GitHub Stats
