@@ -76,7 +76,18 @@ Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer
   </a>
 </p>
 
-## 🧠 LeetCode Stats
+## 🧠 DSA & LeetCode Journey
+
+- ⭐ **525+ problems solved**
+- 📈 **Contest Rating:** 1462
+- 🔥 **Max Streak:** 143 days
+- 🏆 **Top 57% globally**
+
 <p align="center">
-  <img src="https://github-readme-leetcode.vercel.app/?username=venky1802&theme=dark&font=baloo&extension=activity" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=venky1802&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-leetcode.vercel.app/?username=venky1802&theme=dark&extension=activity" />
+</p>
+
