@@ -1,5 +1,6 @@
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/your-banner-image" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Venkatesh%20Goud&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Venkatesh</h1>
@@ -10,7 +11,7 @@ Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 Computer Science Student  
 - 💻 Passionate about building **scalable web applications**
@@ -36,7 +37,7 @@ Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-pink?style=for-the-badge)
 
 ### ⚙️ Backend & Tools
@@ -46,44 +47,26 @@ Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer
 ![JWT](https://img.shields.io/badge/JWT-purple?style=for-the-badge)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge)
 
-### ☁️ Deployment
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge)
-![Netlify](https://img.shields.io/badge/Netlify-teal?style=for-the-badge)
-![Google Cloud](https://img.shields.io/badge/GCP-blue?style=for-the-badge)
-
 ### ☁️ Cloud & DevOps
-
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-teal?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Venkateshgoud18&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Venkateshgoud18&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Venkateshgoud18&theme=radical&hide_border=true" />
 </p>
 
 ---
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/venkatesh-goud-66666332b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
-  </a>
-  <a href="mailto:goudvenki5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" />
-  </a>
-</p>
 
 ## 🧠 DSA & LeetCode Journey
 
@@ -93,10 +76,27 @@ Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer
 - 🏆 **Top 57% globally**
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=venky1802&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/venky1802?theme=dark&font=baloo&ext=contest" />
 </p>
+
+---
+
+## 🌍 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-leetcode.vercel.app/?username=venky1802&theme=dark&extension=activity" />
+  <a href="https://www.linkedin.com/in/venkatesh-goud-66666332b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:goudvenki5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://leetcode.com/venky1802/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer" />
+</p>
