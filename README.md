@@ -19,7 +19,6 @@ Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer
 - 🌱 Currently learning **Machine Learning & Next.js**
 - 💬 Ask me about **React, Framer Motion, GSAP**
 - 📫 Reach me at **goudvenki5@gmail.com**
-- ⚡ Fun fact: I can go from coding complex UIs to watching 12 anime episodes in one sitting 😄
 
 ---
 
@@ -48,11 +47,13 @@ Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge)
 
 ### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-teal?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 ---
 
