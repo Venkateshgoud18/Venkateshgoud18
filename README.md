@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Venkatesh</h1>
 
 <h3 align="center">
-Pre-final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer
+Final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer
 </h3>
 
 ---
