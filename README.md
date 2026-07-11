@@ -88,8 +88,8 @@ Final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer
 
 ## 🧠 DSA & LeetCode Journey
 
-- ⭐ **525+ problems solved**
-- 📈 **Contest Rating:** 1462
+- ⭐ **800+ problems solved**
+- 📈 **Contest Rating:** 1626
 - 🔥 **Max Streak:** 143 days
 - 🏆 **Top 57% globally**
 
