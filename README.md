@@ -91,7 +91,7 @@ Final year student | Full-Stack Developer | DSA Enthusiast | UI/UX Designer
 - ⭐ **800+ problems solved**
 - 📈 **Contest Rating:** 1626
 - 🔥 **Max Streak:** 143 days
-- 🏆 **Top 57% globally**
+- 🏆 **Top 20% globally**
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/venky1802?theme=dark&font=baloo&ext=contest" />
